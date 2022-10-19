@@ -1,5 +1,5 @@
 # FloatIconView
-一款应用内，用于游戏SDK的悬浮按钮
+大家好，我是colin，在开发游戏SDK的过程中整理了一下，摸索开发了一款应用内，用于游戏SDK的悬浮按钮，不需要添加权限，在游戏的Activity上new一个即可
 
 [游戏SDK应用内悬浮窗的实现（一）](https://blog.csdn.net/gsrkuang/article/details/127389615)
 
